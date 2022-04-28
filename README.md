@@ -16,8 +16,9 @@ This project was developed with the following technologies:
 - CSS
 
 ## :computer: Project
-Developed by me, this simple project was made to train my knowledge and initially made for a salesman friend.
-The project did not continue but developing this site was a lot of fun.
+Developed by me, this simple project was made to train my knowledge and initially made for a salesman friend. The project did not continue but developing this site was a lot of fun.
+
+<img alt="Gif for project" src="https://github.com/antonio-moreira-prog/Site-Inove/blob/main/images/gif-landPage.gif?raw=true">
 
 ## :scroll: License
 This project is under the MIT license. See the [LICENSE.md] file for more details.
